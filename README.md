@@ -69,7 +69,7 @@ Hovlibrary/
    ```xml
    <connectionStrings>
        <add name="Hovlibrary.Properties.Settings.HovlibraryConnectionString"
-            connectionString="Data Source=YOUR_SERVER_NAME;Initial Catalog=Hovlibrary;Integrated Security=True"
+            connectionString="Data Source=TUFA16\SQLEXPRESS;Initial Catalog=Hovlibrary;Integrated Security=True"
             providerName="System.Data.SqlClient" />
    </connectionStrings>
    ```
